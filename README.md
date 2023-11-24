@@ -1,1 +1,2 @@
 # ConflictISP
+Conflict 10
